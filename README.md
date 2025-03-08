@@ -67,6 +67,10 @@ wails build
 - [x] 头像使用本地头像
 - [ ] 支持更多消息类型显示
 - [x] 图片查看器重绘
+- [x] 支持会话导出分享
+- [x] 支持自动定位到最后浏览位置
+- [x] 支持书签功能
+- [x] 支持单聊会话对话人位置调换功能
 - [ ] 实现表情预先下载（实现完全离线查看）
 - [ ] 聊天报告
 - [ ] AI本地模型应用
@@ -103,3 +107,6 @@ A: Win7电脑需要安装WebView2运行时才能正常使用。github release版
 - silk语音消息解码 [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
 - PCM转MP3 [lame](https://github.com/viert/lame.git)
 - Dat图片解码 [wechatDatDecode](https://github.com/liuggchen/wechatDatDecode)
+
+## 交流/讨论
+![](./res/wechatQR.png)
